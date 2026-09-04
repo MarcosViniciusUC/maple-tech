@@ -289,17 +289,19 @@ p {
 
 .logo-crop {
   display: block;
-  width: 60px;
-  height: 56px;
+  width: 44px;
+  height: 42px;
   overflow: hidden;
 }
 
 .logo-crop img {
-  width: 108px;
-  height: 108px;
-  margin-left: -24px;
-  margin-top: -17px;
+  width: 118px;
+  height: 118px;
+  max-width: none;
+  margin-left: -37px;
+  margin-top: -20px;
   display: block;
+  object-fit: cover;
 }
 
 .nav-desktop {
@@ -1002,17 +1004,19 @@ p {
 
 .footer-logo {
   display: block;
-  width: 104px;
-  height: 96px;
+  width: 76px;
+  height: 72px;
   overflow: hidden;
 }
 
 .footer-logo img {
-  width: 186px;
-  height: 186px;
-  margin-left: -41px;
-  margin-top: -30px;
+  width: 201px;
+  height: 201px;
+  max-width: none;
+  margin-left: -63px;
+  margin-top: -35px;
   display: block;
+  object-fit: cover;
 }
 
 .footer-tagline {
